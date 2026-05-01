@@ -1,0 +1,21 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files
+*.csv
+*.rds
+*.xlsx
+*.dta
+*.tex
+
+# Output folders
+outputs/
+figures/
+Figures/
+tables/
+Tables/
+
+# Large/raw data folders
+data/
